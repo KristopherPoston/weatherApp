@@ -4,3 +4,10 @@ dist/
 build/
 .vscode/
 .DS_Store
+
+/public
+
+src/assets
+
+/src/assets
+
