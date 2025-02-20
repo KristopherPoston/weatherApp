@@ -9,7 +9,7 @@ import drizzle_icon from '../assets/drizzle.png'
 import wind_icon from '../assets/wind.png'
 import humidity_icon from '../assets/humidity.png'
 
-
+ {/* help reset git cache */}
 const Weather = () => {
 
   const inputRef = useRef()
